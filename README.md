@@ -31,8 +31,8 @@ python -m pytest
 from the root directory of this project.
 
 ## Notes from 1/24/17
-## Implemented bubblesort and quicksort functions in algs.py
-## Counted conditionals and assignments
-## Plot results in run_stuff.py
-## Test edge cases in test_algs.py
-## Other scripts were for learning how to plot, run from modules, and try counting
+
+Implemented bubblesort and quicksort functions in algs.py
+Counted conditionals and assignments
+Plotted results in run_stuff.py
+Test edge cases in test_algs.py
