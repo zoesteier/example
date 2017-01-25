@@ -30,7 +30,7 @@ python -m pytest
 
 from the root directory of this project.
 
-## Notes from 1/24/17
+## Notes from 1/24/17 (HW1 submission)
 
 Implemented bubblesort and quicksort functions in algs.py.
 Counted conditionals and assignments.
